@@ -1,2 +1,3 @@
 # applicatorReconstruct
-reconstructApplicator4brachytherapy
+
+From CT scan to 3D applicator model
